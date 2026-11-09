@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+game
+bin/
+obj/
+*.layout
+*.depend
+*.clb
+*.cls
+/TowerDefend
