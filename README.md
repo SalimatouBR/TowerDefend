@@ -1,6 +1,6 @@
 # TowerDefend
 
-Jeu de tower defense en C avec la bibliothèque SDL2, réalisé dans le cadre du cours de Programmation C (Licence Informatique, Poitiers).
+Jeu de tower defense en C avec la bibliothèque SDL2, réalisé en binôme dans le cadre du cours de Programmation C (Licence Informatique, Poitiers). Des tours posées sur le plateau défendent la tour du roi contre des unités ennemies qui avancent le long d'un chemin. Le projet utilise des listes chaînées pour gérer les unités, et propose une sauvegarde et un chargement de la partie en binaire et en texte.
 ## Aperçu
 
 ![Demarrage](IMJEU/Demarrage.png)
